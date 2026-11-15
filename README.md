@@ -12,6 +12,17 @@ O objetivo é aplicar conceitos fundamentais de programação na construção de
 
 O sistema permite gerenciar tutores, animais e atendimentos, além de realizar consultas e gerar relatórios financeiros durante sua execução.
 
+## 👥 Equipe de Desenvolvimento
+
+| Nº | Nome completo | Matrícula |
+|:---:|---|:---:|
+| 1 | Robert Guelber Frazão Souza | 26200486 |
+| 2 | A definir | A definir |
+| 3 | A definir | A definir |
+| 4 | A definir | A definir |
+| 5 | A definir | A definir |
+| 6 | A definir | A definir |
+
 ## 🎯 Objetivos
 
 - Aplicar conceitos de lógica de programação em linguagem C.
@@ -281,7 +292,7 @@ O repositório também é utilizado para compartilhamento do código e organiza�
 
 A divisão das responsabilidades e as orientações para os integrantes estão disponíveis no documento:
 
-**[APRESENTACAO.md](APRESENTACAO.md)**
+**[PRESENTATION.md](PRESENTATION.md)**
 
 ---
 
