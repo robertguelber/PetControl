@@ -24,8 +24,8 @@ Cada integrante deverá inserir seu nome na parte do código que ficará respons
 | `case 3` | **Robert** | Listagem de cadastros e laços de repetição |
 | Bibliotecas e funções auxiliares | A definir | `stdio.h`, `string.h`, `limparEntrada()` e `lerTexto()` |
 | Funções de busca | A definir | `buscarTutor()` e `buscarAnimal()` |
-| `case 1` | A definir | Cadastro de tutores |
-| `case 2` | A definir | Cadastro de animais |
+| `case 1` | **Miguel**| Cadastro de tutores |
+| `case 2` | **Miguel**| Cadastro de animais |
 | `case 4` | A definir | Busca de registros |
 | `case 5` | A definir | Registro de atendimentos |
 | `case 6` | A definir | Alteração de cadastro e ponteiros |
