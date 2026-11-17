@@ -16,12 +16,10 @@ O sistema permite gerenciar tutores, animais e atendimentos, além de realizar c
 
 | Nº | Nome completo | Matrícula |
 |:---:|---|:---:|
-| 1 | Robert Guelber Frazão Souza | 26200486 |
-| 2 | A definir | A definir |
-| 3 | A definir | A definir |
-| 4 | A definir | A definir |
-| 5 | A definir | A definir |
-| 6 | A definir | A definir |
+| 1 | Robert Guelber Frazão Souza | UC26200486 |
+| 2 | Gabrieli Rodrigues Moreira | UC26200273 |
+| 3 | Stevam Pereira da Silva | UC26200280 |
+| 4 | Miguel Solano Meirelles | UC26200274 |
 
 ## 🎯 Objetivos
 
